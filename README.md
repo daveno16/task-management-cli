@@ -132,4 +132,4 @@ Copyright © 2023 David Iyareen Omayo
 
 ## Author
 
-David Iyareen Omayo
+David Iyare Enomayo
